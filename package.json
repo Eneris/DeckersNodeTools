@@ -1,0 +1,13 @@
+{
+  "name": "deckers-node-tools",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "xml2js": "^0.4.19"
+  }
+}
